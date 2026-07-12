@@ -1,0 +1,5 @@
+lead_id,enquiry_date,customer_name,customer_email,customer_phone,project_name,possession,site,inventory_status,executive,disposition,comments
+RE-5001,13-05-2026 10:20,Deepak Verma,deepak.verma@gmail.com,+91 9822011223,Meridian Tower,Ready to Move,Pune,2BHK Available,Ravi Kumar,Hot Lead,"Wants site visit this weekend, budget confirmed"
+RE-5002,13-05-2026 11:05,Sunita Rao,sunita.rao@gmail.com,9822033445,Eden Park,Dec 2026,Pune,3BHK Available,Ravi Kumar,Cold,Was just browsing prices
+RE-5003,13-05-2026 12:40,Faisal Ahmed,,9822055667,Varah Swamy,June 2027,Bengaluru,1BHK Sold Out,Meena Iyer,Junk Lead,Fake enquiry - number unreachable
+RE-5004,13-05-2026 13:15,Test Lead,test.lead@gmail.com,,Sarjapur Plots,Immediate,Bengaluru,Plots Available,Meena Iyer,Booked,Token amount received; closing docs pending
